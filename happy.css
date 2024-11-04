@@ -1,0 +1,39 @@
+div{
+    background: blueviolet;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.box{
+    background: blueviolet;
+    width: 1280px;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.box div{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+
+}
+.box div:nth-child(2) {
+    align-self: center;
+}
+.box div:nth-child() {
+    align-self: end;
+}
+.box div:nth-child() {
+    align-self: end;
+}  
+img{
+    
+    height: 200px;
+    width: 200px;
+}

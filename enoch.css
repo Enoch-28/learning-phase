@@ -1,0 +1,25 @@
+.box{
+    background: black;
+    width: 1000px;
+    height: 600px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.box div{
+    width:200px;
+    height: 200px;
+    background: white;
+    border: 1px solid black;
+}
+.box div:nth-child(5) {
+    align-self: center;
+}
+.box div:nth-child(1) {
+    align-self: center;
+}
+.box div:nth-child(3) {
+    align-self: center;
+}
+.box div:nth-child(7) {
+    align-self: center;
+}

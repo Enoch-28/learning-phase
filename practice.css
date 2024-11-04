@@ -1,0 +1,29 @@
+
+h1{
+    text-align: center;
+    border: 3px solid black;
+    color: blue;
+}
+
+
+input{
+    
+    margin-left: 35%;
+    border: 3px solid black;
+}  
+
+
+button{
+    margin-left: 45%;
+}
+
+
+strong{
+    margin-left: 38%;
+}
+
+
+div{
+    margin: auto;
+}
+
